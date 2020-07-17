@@ -1,5 +1,6 @@
 import time
 from names_bst import BSTNode
+
 start_time = time.time()
 
 f = open('names_1.txt', 'r')
